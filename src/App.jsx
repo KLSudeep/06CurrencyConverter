@@ -87,12 +87,3 @@ const swap = ()=>{
 }
 
 export default App
-
-
-// https://mxstbr.blog/2017/02/react-children-deepdive/
-// https://www.dhiwise.com/post/understanding-react-propswithchildren-a-comprehensive-guide
-// https://dev.to/srishtikprasad/manipulating-children-dynamically-in-react-15l4
-
-// Updated useCurrencyInfo to fetch actual conversion rates.
-// Fixed the convert logic to use the correct rate.
-// Corrected the InputBox prop handling in App.jsx.
